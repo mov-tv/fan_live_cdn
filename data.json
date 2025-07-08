@@ -1,0 +1,119 @@
+[
+    {
+        "id": "f31edc33-571f-4f57-a1e4-8b7e2b874bd6",
+        "order": 0,
+        "name": "beIN TOD",
+        "image": "https://www.tod.tv/assets/images/OG_TOD.png",
+        "sub_sections": [
+            {
+                "id": "1216196c-fbf4-4eae-8793-84b3e3ff1347",
+                "order": 999,
+                "name": "مم678",
+                "image": "https://ogghjikkjjar.png",
+                "sub_sub_sections": [
+                    {
+                        "id": "8afc01a9-e7bb-4bf2-b4f8-03002dc4c34e",
+                        "order": 999,
+                        "name": "ز v",
+                        "url": "https://yalla-koora24.com/fox-tv/ok.php?id=9598935703245",
+                        "useragent": "Nsn",
+                        "referer": "Cc",
+                        "origin": "",
+                        "cookie": "",
+                        "keys": "",
+                        "scheme": "",
+                        "type": "exo"
+                    },
+                    {
+                        "id": "190ad6c6-d8b7-422e-a124-20641809abac",
+                        "order": 999,
+                        "name": "Nn",
+                        "url": "n",
+                        "useragent": "",
+                        "referer": "",
+                        "origin": "",
+                        "cookie": "",
+                        "keys": "",
+                        "scheme": "",
+                        "type": "web"
+                    },
+                    {
+                        "id": "afc82e2d-5cc4-4946-91fe-cab98945ec3b",
+                        "order": 999,
+                        "name": "Jn",
+                        "url": "n",
+                        "useragent": "",
+                        "referer": "",
+                        "origin": "",
+                        "cookie": "",
+                        "keys": "",
+                        "scheme": "",
+                        "type": "web_drm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5f2a4dae-1197-43ee-9e3c-9deab29c0d84",
+        "order": 1,
+        "name": "قنوات الكاس | ALKASS",
+        "image": "https://up6.cc/2025/06/174955240960031.jpg",
+        "sub_sections": [
+            {
+                "id": "70943660-233e-4b3d-b5dd-caa6c6f49419",
+                "order": 999,
+                "name": "Jj",
+                "image": "j"
+            }
+        ]
+    },
+    {
+        "id": "2ea24cb0-c697-4274-8d1c-d35a7f89aef0",
+        "order": 2,
+        "name": "SSC | متعددة الجودات",
+        "image": "https://mm.yallakoora-24.com/fox-tv/images/174571045315851.jpg",
+        "sub_sections": [
+            {
+                "id": "13feb04f-37c8-41e0-b122-ed1394f4adf0",
+                "order": 999,
+                "name": "ن",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": "b4457cdb-888a-4276-a423-435db31401e5",
+        "order": 4,
+        "name": "BeIN MEDIA",
+        "image": "https://up6.cc/2025/04/174423168466871.jpg"
+    },
+    {
+        "id": "3dd3b27c-26da-49fa-a91e-9ed39d4d0674",
+        "order": 999,
+        "name": "ARBIC SPORT | الرياضة العربية ٦",
+        "image": "https://mm.yallakoora-24.com/fox-tv/images/174423172272111.jpg",
+        "sub_sections": [
+            {
+                "id": "0d17c817-7d87-4bc0-ba51-351299876cd5",
+                "order": 999,
+                "name": "ز",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": "447b1910-1751-4fcf-bdbc-e4ecc8270f4e",
+        "order": 3,
+        "name": "الشرق | NOW",
+        "image": "https://h.top4top.io/p_3469ajhvc1.jpg",
+        "sub_sections": [
+            {
+                "id": "b44c6beb-8230-4968-a0ed-62780b3a9a7d",
+                "order": 999,
+                "name": "beIN SPORTS 1",
+                "image": "https://g.top4top.io/p_346917x421.jpg"
+            }
+        ]
+    }
+]
